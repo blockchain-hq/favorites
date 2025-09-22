@@ -28,6 +28,10 @@ This project serves as an educational resource for learning Solana development, 
 
 The Favorites program is a Solana smart contract built with the Anchor framework that allows users to store and manage their personal preferences on-chain. Each user gets their own unique data account derived from their public key using Program Derived Addresses (PDAs).
 
+**📍 Deployed Program ID (Devnet)**: `CeHmxb8uBgxJfYMM1uyo6XxBXszDreP9VZsB5mpUbyvE`
+
+You can interact with this deployed program directly or deploy your own version.
+
 ### Key Features:
 
 - **User-specific Storage**: Each user has their own favorites account at a deterministic address
