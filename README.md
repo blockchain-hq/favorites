@@ -22,7 +22,7 @@ This project serves as an educational resource for learning Solana development, 
 - [Running the Client](#-running-the-client)
 - [Development Workflow](#-development-workflow)
 - [Program Architecture](#-program-architecture)
-- [Educational Resources](#-educational-resources)
+- [Educational Resources](#educational-resources)
 
 ## Smart Contract Overview
 
@@ -332,3 +332,10 @@ anchor deploy  # Deploy the program first
 - Check Solana network status
 - Verify program ID in `Anchor.toml` matches deployed program
 - Ensure sufficient SOL for transaction fees
+
+# Educational Resources
+
+- [Solana Bootcamp](https://www.youtube.com/watch?v=amAq-WHAFs8&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc)
+- [How to get the correct declare_id in Solana Anchor Project](https://medium.com/@cryptowikihere/how-to-get-the-correct-declare-id-in-solana-anchor-project-ade9af0cf9ba)
+- [Solana Playground](https://beta.solpg.io/)
+- [A simple introduction to Solana accounts, rent, and PDAs](https://www.youtube.com/watch?v=jjEZBmWI1S4)
