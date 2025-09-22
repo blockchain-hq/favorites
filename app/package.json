@@ -1,0 +1,25 @@
+{
+  "name": "favorites-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "set-favorites": "ts-node scripts/set-favorites.ts",
+    "get-favorites": "ts-node scripts/get-favorites.ts",
+    "delete-favorites": "ts-node scripts/delete-favorites.ts",
+    "test-multiple": "ts-node scripts/test-multiple-wallets.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.31.1",
+    "@solana/web3.js": "^1.98.4"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
